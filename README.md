@@ -1,8 +1,6 @@
 ## Live Demo
 https://ai-careeros-theta.vercel.app
 
-## Backend API
-https://ai-careeros-api.onrender.com
 
 ## Tech Stack
 
